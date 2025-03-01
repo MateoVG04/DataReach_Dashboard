@@ -6,3 +6,4 @@ class Account:
 
     def get_name(self):
         return self.company_name
+
